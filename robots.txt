@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iaxooxighi.stevyncolgan.com/sitemap.xml
